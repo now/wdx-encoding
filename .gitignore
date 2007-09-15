@@ -1,0 +1,8 @@
+*.ncb
+*.suo
+*.user
+*.swp
+/Debug
+/Release
+/tests
+/zips

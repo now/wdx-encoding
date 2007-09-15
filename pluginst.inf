@@ -1,0 +1,5 @@
+[PluginInstall]
+Description=Character-encoding content-plugin
+Type=wdx
+File=encoding.wdx
+DefaultDir=encoding
